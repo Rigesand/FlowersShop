@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlowersShop.Api", "FlowersShop.Api\FlowersShop.Api.csproj", "{1E510207-883F-4FAA-AA4A-97801F763938}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlowersShop.DAL.MongoDB", "FlowersShop.DAL.MongoDB\FlowersShop.DAL.MongoDB.csproj", "{A8715855-CF08-4F31-BCF9-B665A9CF5671}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlowersShop.Buyers.API", "FlowersShop.Buyers.API\FlowersShop.Buyers.API.csproj", "{D766A35A-26F4-4E79-9468-E348EA1DD412}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlowersShop.Kafka", "FlowersShop.Kafka\FlowersShop.Kafka.csproj", "{101C90ED-4BD2-423E-ACF9-384F6B55998F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E510207-883F-4FAA-AA4A-97801F763938}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E510207-883F-4FAA-AA4A-97801F763938}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E510207-883F-4FAA-AA4A-97801F763938}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E510207-883F-4FAA-AA4A-97801F763938}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8715855-CF08-4F31-BCF9-B665A9CF5671}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8715855-CF08-4F31-BCF9-B665A9CF5671}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8715855-CF08-4F31-BCF9-B665A9CF5671}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8715855-CF08-4F31-BCF9-B665A9CF5671}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D766A35A-26F4-4E79-9468-E348EA1DD412}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D766A35A-26F4-4E79-9468-E348EA1DD412}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D766A35A-26F4-4E79-9468-E348EA1DD412}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D766A35A-26F4-4E79-9468-E348EA1DD412}.Release|Any CPU.Build.0 = Release|Any CPU
+		{101C90ED-4BD2-423E-ACF9-384F6B55998F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{101C90ED-4BD2-423E-ACF9-384F6B55998F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{101C90ED-4BD2-423E-ACF9-384F6B55998F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{101C90ED-4BD2-423E-ACF9-384F6B55998F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
